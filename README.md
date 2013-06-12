@@ -1,2 +1,1 @@
-vizblog
-=======
+A simple blog engine for data visualization project
